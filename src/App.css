@@ -1,0 +1,61 @@
+.title {
+  color: #e6a65d;
+  padding: 40px 0px;
+  font-size: 70px;
+  line-height: 62px;
+  font-family: Druk,Impact,sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .02em;
+}
+
+.brand-select {
+  padding: 10px;
+  min-width: 400px;
+}
+
+.brand-label {
+  font-size: 16px;
+  font-weight: 700;
+  padding-bottom: 5px;
+}
+
+
+/* Comparison styles */
+.food-descriptor-other-brand {
+  font-size: 16px;
+  font-weight: 700;
+  text-align: right;
+}
+
+.food-details-other-brand {
+  font-size: 38px;
+  line-height: 48px;
+  font-weight: 700;
+  text-align: right;
+}
+
+.food-descriptor-nomnom {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.food-details-nomnom {
+  font-size: 38px;
+  line-height: 48px;
+  font-weight: 700;
+}
+
+.sub-title {
+    color: #e6a65d;
+    font-size: 30px;
+    font-family: Druk,Impact,sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: .02em;
+}
+
+.grey-text {
+  color: #a7a8a9;
+  letter-spacing: .02em;
+}
