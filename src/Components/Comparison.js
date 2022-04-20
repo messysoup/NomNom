@@ -6,7 +6,9 @@ const Comparison = (props) => {
     console.log(props.otherbrand)
 
     if (Object.keys(props.otherbrand).length === 0) {
-        return <div></div>
+        return <div>
+            <h5 className='grey-text' style={{textAlign: "center"}}>Select a pet food brand to get a nutrient comparison</h5>
+        </div>
     } else {
         return (
             <div className='grey-text'>
