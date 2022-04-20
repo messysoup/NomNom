@@ -17,7 +17,7 @@ const Comparison = (props) => {
                     <Col style={{padding: "50px 20px 0px 0px"}}>
                         <div style={{height: "37px"}}/>
                         <Row className='justify-content-end' >
-                            <img style={{maxWidth: "164px", maxHeight: "250px", padding: "20px"}} src={require(`../Images/${props.otherbrand.Img}`)} alt={`${props.otherbrand.name}`} />
+                            <img style={{maxWidth: "164px", maxHeight: "221px", padding: "20px"}} src={require(`../Images/${props.otherbrand.Img}`)} alt={`${props.otherbrand.name}`} />
                         </Row>
                         <Row>
                             <label className='food-descriptor-other-brand'>Protein</label>
